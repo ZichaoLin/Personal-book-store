@@ -1,0 +1,257 @@
+[
+    { 
+        "title": "Big Summer a Novel",
+        "author": "Wenier, Jennifer",
+        "publisher": "New York: Atria books", 
+        "category": "Fiction",
+        "price": "20.8",
+        "qty":0,      
+        "img":"https://m.media-amazon.com/images/I/618eO7ixmrL.jpg"
+    }, 
+    { 
+        
+        "title": "A Knife in the heart ",
+        "author": "Johnstone, William W.",
+        "publisher": "New York, NY: Pinnacle Books", 
+        "category": "Fiction",
+        "price": "26.3",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/81e71AriI5L.jpg"
+    }, 
+    { 
+        
+        "title": "Murder at the Serpentine Bridge",
+        "author": "Penrose, Andrea",
+        "publisher":"New York, NY: Kensington Publishing Corp.", 
+        "category":"Fiction",
+        "price":"27.0",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/41xHbadH3fL.jpg"
+    }, 
+    { 
+        
+        "title": "Cooking from the spirit: easy, delicious, and joyful plant-based inspirations",
+        "author": "Brown, Tabitha",
+        "publisher": "New York, NY: William Morrow", 
+        "category": "Cooking",
+        "price": "36.0",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/61Tqq77r3SL._SX260_.jpg"
+    }, 
+    { 
+        
+        "title": "Modern bistro: home cooking inspired by French Classics",
+        "author": "",
+        "publisher": "Boston, MA: America’s Test Kitchen", 
+        "category": "Cooking",
+        "price": "30.0",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/91dPcDiXFAL.jpg"
+    },
+    { 
+        "title": "Do Hard Things: Why We Get Resilience Wrong And The Surprising Science Of Real Toughness",
+        "author": "Steve Magness",
+        "publisher": "HarperCollins", 
+        "category": "Bussiness",
+        "price": "35.9",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/71+pnb1BMOL.jpg"
+    },  
+    { 
+        "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+        "author": "James Clear",
+        "publisher": "Avery", 
+        "category": "Bussiness",
+        "price": "15.9",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/81wgcld4wxL.jpg"
+    },  
+    { 
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "publisher": "Beacon press", 
+        "category": "History",
+        "price": "20",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/91IVCIMJ0cL.jpg"
+    },  
+    { 
+        "title": "Unsettled: What Climate Science Tells Us, What It Doesn't, and Why It Matters ",
+        "author": "Steven E. Koonin",
+        "publisher": "BenBella Books", 
+        "category": "Science",
+        "price": "35",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/41Bze4fiIgS.jpg"
+    },
+    { 
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "publisher": "Signal", 
+        "category": "Science",
+        "price": "20",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/51iFLdimVyL.jpg"
+    },{ 
+        "title": "Chip War: The Fight for the World's Most Critical Technology",
+        "author": "Chris Miller",
+        "publisher": "Scribner", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/41VAIRdo40L._SX329_BO1,204,203,200_.jpg"
+    },{ 
+        "title": "WTF Is My Password: Password Book Log Book",
+        "author": "Paper Kate Publishing",
+        "publisher": "Independently published", 
+        "category": "Technology",
+        "price": "20",
+        "qty":0,
+        "img":"https://m.media-amazon.com/images/I/51BJgzunPiL._SX331_BO1,204,203,200_.jpg"
+    }, 
+    { 
+        "title": "new Book 1",
+        "author": "author 1",
+        "publisher": "publisher 1", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 2",
+        "author": "author 2",
+        "publisher": "publisher 2", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 3",
+        "author": "author 3",
+        "publisher": "publisher 3", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 4",
+        "author": "author 4",
+        "publisher": "publisher 4", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 5",
+        "author": "author 5",
+        "publisher": "publisher 5", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 6",
+        "author": "author 6",
+        "publisher": "publisher 6", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 7",
+        "author": "author 7",
+        "publisher": "publisher 7", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 8",
+        "author": "author 8",
+        "publisher": "publisher 8", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 9",
+        "author": "author 9",
+        "publisher": "publisher 9", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 10",
+        "author": "author 10",
+        "publisher": "publisher 10", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 11",
+        "author": "author 11",
+        "publisher": "publisher 11", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 12",
+        "author": "author 12",
+        "publisher": "publisher 12", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 13",
+        "author": "author 13",
+        "publisher": "publisher 13", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 14",
+        "author": "author 14",
+        "publisher": "publisher 14", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 15",
+        "author": "author 15",
+        "publisher": "publisher 15", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }, 
+    { 
+        "title": "new Book 16",
+        "author": "author 16",
+        "publisher": "publisher 16", 
+        "category": "Technology",
+        "price": "25",
+        "qty":0,
+        "img":""
+    }
+
+]
